@@ -1,0 +1,23 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+env/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large raw datasets (ZIPs and extracted CSVs)
+data/Netflix_Dataset_Rating.csv
+data/Netflix_Dataset_Rating.csv.zip
+data/*.zip
+
+# Keep model artifacts and directory structure
+!model/
+!data/
