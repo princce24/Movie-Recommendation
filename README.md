@@ -157,3 +157,10 @@ Press **`Ctrl + C`** in the command prompt or terminal window running Streamlit.
 
 - **Cold-Start Problem:** Movies with zero or few ratings cannot be accurately recommended using collaborative filtering alone. Future improvement: combine with content-based embeddings (e.g. plot synopsis or actors) into a hybrid model.
 - **Implicit Feedback:** Add watch time, skips, and clicks to complement explicit star ratings.
+
+
+### Snapshots:
+
+<img width="1858" height="860" alt="image" src="https://github.com/user-attachments/assets/a7be835f-cc5a-453f-a967-cc8c8f3df759" />
+<img width="1799" height="870" alt="image" src="https://github.com/user-attachments/assets/a4e4a4de-f2e9-4c11-9c43-9d68ddd3cc0b" />
+
